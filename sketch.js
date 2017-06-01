@@ -8,7 +8,6 @@ function setup() {
     createCanvas(windowWidth, windowHeight);
 }
 
-
 // Die draw() Funktion wird standardmäßig 60 mal pro Sekunde aufgerufen
 // Für alles, was oft gemacht werden soll. (Position von etwas ändern, Sachen neu berechen)
 function draw() {
